@@ -1,0 +1,10 @@
+openai
+torch
+transformers
+rank-bm25
+nltk
+requests
+python-dotenv
+accelerate
+pandas
+numpy
