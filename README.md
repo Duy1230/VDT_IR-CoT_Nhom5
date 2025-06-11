@@ -1,4 +1,4 @@
-# Multi-Hop RAG Evaluation
+# Multi-Hop RAG (IR-CoT)
 
 Compare how well different RAG systems answer multi-step questions using original vs. summarized documents.
 
